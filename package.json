@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://dmitry-goncharyuk.github.io",
+  "homepage": "https://dmitry-goncharyuk.github.io/react-tic-tac-toe-extended/",
   "dependencies": {
     "react": "^19.2.1",
     "react-dom": "^19.2.1",

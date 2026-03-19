@@ -1,0 +1,1 @@
+"This is a Tic-Tac-Toe game built with React, based on the official React tutorial. I created this to practice to learn React."
